@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pgvector
+asyncpg
+python-multipart
+python-dotenv
+face-recognition
+opencv-python-headless
+numpy
+Pillow
+aiofiles
+requests
